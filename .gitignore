@@ -1,0 +1,5 @@
+venv
+books.db
+app
+__pycache__/
+.pytest_cache/
